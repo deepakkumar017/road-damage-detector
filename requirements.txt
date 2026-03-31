@@ -1,0 +1,13 @@
+ultralytics==8.0.196
+torch>=2.0.0
+torchvision>=0.15.0
+opencv-python==4.8.1.78
+Pillow>=10.0.0
+flask>=3.0.0
+reportlab>=4.0.0
+fpdf2>=2.7.0
+numpy>=1.24.0
+pandas>=2.0.0
+requests>=2.31.0
+tqdm>=4.65.0
+pyyaml>=6.0
