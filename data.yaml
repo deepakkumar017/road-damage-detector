@@ -1,0 +1,13 @@
+path: data/RDD_SPLIT
+
+train: train/images
+val: val/images
+test: test/images
+
+nc: 4
+
+names:
+  0: Pothole
+  1: Longitudinal_Crack
+  2: Transverse_Crack
+  3: Alligator_Crack
