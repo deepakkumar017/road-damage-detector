@@ -134,3 +134,10 @@ python app.py
 ## 📌 Status
 
 🚧 Currently under development (Phase 1 Completed)
+
+---
+
+## Note 
+
+Dataset not included due to size. 
+Download from Kaggle: RDD2022 and place in /data/RDD_SPLIT/
