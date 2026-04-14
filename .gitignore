@@ -2,14 +2,14 @@
 venv/
 
 # Dataset
-data/
+model/data/
 
 # Model weights
-models/
+model/models/
 
 # Outputs
-static/uploads/
-static/outputs/
+backend/static/uploads/
+backend/static/outputs/
 
 # Python cache
 __pycache__/
@@ -18,3 +18,4 @@ __pycache__/
 # OS files
 .DS_Store
 Thumbs.db
+.env
